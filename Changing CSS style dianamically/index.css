@@ -1,0 +1,11 @@
+.para-style{
+    color:darkred;
+    font-size: 2rem;
+    padding:10px;
+    margin: 4px;
+    font-style:italic;
+    font-weight:bold;
+}
+
+/* event listener */
+
